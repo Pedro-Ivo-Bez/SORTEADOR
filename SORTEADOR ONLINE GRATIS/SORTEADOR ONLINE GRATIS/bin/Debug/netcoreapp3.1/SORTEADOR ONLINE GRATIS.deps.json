@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SORTEADOR ONLINE GRATIS/1.0.0": {
+        "runtime": {
+          "SORTEADOR ONLINE GRATIS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SORTEADOR ONLINE GRATIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
